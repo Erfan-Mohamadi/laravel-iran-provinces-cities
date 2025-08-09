@@ -5,7 +5,7 @@ namespace Modules\Area\Database\Seeders;
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\DB;
 
-class AreaDatabaseSeeder extends Seeder
+class ProvincesCitiesSeeder extends Seeder
 {
     /**
      * Seed the application's database.
